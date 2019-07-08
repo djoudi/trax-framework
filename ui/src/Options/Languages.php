@@ -19,8 +19,10 @@ class Languages extends OptionsModel
             'en' => [
                 'name' => __('trax-ui::lang.english'),
             ],
+            'ar' => [
+                'name' => __('trax-ui::lang.arabic'),
+            ],
         ];
     }
 
 }
-
